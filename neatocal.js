@@ -73,7 +73,7 @@ var NEATOCAL_PARAM = {
 
   // Text to use for displaying weekdays
   //
-  "weekday_code" : [ "S", "M", "T", "W", "R", "F", "S"  ],
+  "weekday_code" : [ "S", "M", "T", "W", "T", "F", "S"  ],
 
   // text to use for month header
   //
