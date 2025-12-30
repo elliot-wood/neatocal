@@ -73,11 +73,11 @@ var NEATOCAL_PARAM = {
 
   // Text to use for displaying weekdays
   //
-  "weekday_code" : [ "Su", "M", "T", "W", "R", "F", "Sa"  ],
+  "weekday_code" : [ "S", "M", "T", "W", "R", "F", "S"  ],
 
-  // text to sue for month header
+  // text to use for month header
   //
-  "month_code": [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ],
+		"month_code": [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ],
 
   //
   "language" : "",
@@ -94,7 +94,7 @@ var NEATOCAL_PARAM = {
 
   // weekend highlight color
   //
-  "highlight_color": '#eee',
+  "highlight_color": '#efefef',
 
   // show week numbers
   //
